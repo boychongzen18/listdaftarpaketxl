@@ -1,12 +1,16 @@
-# list daftar paket xl
+# list daftar paket XL
+
+# Created Boychongzen aka Xroot
 
 
-My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-My Website : http://hackingforlive.cf
+Link Tutorial : https://youtu.be/PGt9BUzhjNI
 
-My Facebok : https://web.facebook.com/xroot.xroot.7
+My Website    : http://hackingforlive.cf
 
-Moto : Berbagi Itu Indah
+My Facebok    : https://web.facebook.com/xroot.xroot.7
 
-Regard Boychongzen aka Xroot
+# Moto : Berbagi Itu Indah
+
+# Regard Boychongzen aka Xroot
