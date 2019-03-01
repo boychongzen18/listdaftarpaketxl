@@ -1,4 +1,4 @@
-# list daftar paket XL
+# List Daftar Paket XL Open & Close Dor
 
 # Created Boychongzen aka Xroot
 
