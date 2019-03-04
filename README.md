@@ -5,7 +5,7 @@
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/PGt9BUzhjNI
+Link Tutorial : https://youtu.be/TZ6Ei7_XRSA
 
 My Website    : http://hackingforlive.cf
 
