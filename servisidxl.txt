@@ -16,11 +16,11 @@ Extra Kuota 30GB Rp11.900 : 8110671 ( Ready DOR )
 Kuota Waze 10GB 30hr,Rp10.000 : 8110801 ( Ready DOR )
 
 Combo Lite :
-Pkt Xtra Combo Lite 3GB, 30hr, Rp19.900 : 8210882 ( Ready DOR )
-Pkt Xtra Combo Lite 5GB, 30hr, Rp29.900 : 8210883 ( Ready DOR )
-Pkt Xtra Combo Lite 9GB, 30hr, Rp49.900 : 8210884 ( Ready DOR )
-Pkt Xtra Combo Lite 17GB, 30hr, Rp79.900 : 8210885 ( Ready DOR )
-Pkt Xtra Combo Lite 25GB, 30hr, Rp99.900 : 8210886 ( Ready DOR )
+Pkt Xtra Combo Lite 3GB, 30hr, Rp19.900 : 8210882 ( Service ID dont not match )
+Pkt Xtra Combo Lite 5GB, 30hr, Rp29.900 : 8210883 ( Service ID dont not match )
+Pkt Xtra Combo Lite 9GB, 30hr, Rp49.900 : 8210884 ( Service ID dont not match )
+Pkt Xtra Combo Lite 17GB, 30hr, Rp79.900 : 8210885 ( Service ID dont not match )
+Pkt Xtra Combo Lite 25GB, 30hr, Rp99.900 : 8210886 ( Service ID dont not match )
 
 
 XTRA COMBO & PRIMA :
