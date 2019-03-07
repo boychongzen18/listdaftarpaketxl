@@ -14,3 +14,5 @@ My Facebok    : https://web.facebook.com/xroot.xroot.7
 # Moto : Berbagi Itu Indah
 
 # Regard Boychongzen aka Xroot
+
+https://raw.githubusercontent.com/boychongzen18/listdaftarpaketxl/master/xl.png
