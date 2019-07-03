@@ -1,5 +1,6 @@
 Created Service ID 2019 Open & Closed
 
+========================= Khusus Paket Free =============================
 
 Free 500mb     : 8110505 ( Service ID dont not match )
 
@@ -13,10 +14,14 @@ Bonus sign-UP   : 8110632 ( Service ID dont not match )
 
 Extra Kuota 30GB Rp11.900 : 8110671 ( Ready DOR )
 
+========================= Khusus Paket Serba 10rb =============================
+
 Kuota Waze 10GB 30hr,Rp10.000 : 8110801 ( Ready DOR )
 
-Kuota Ngabuburit FB&CHAT Ramadhan 7Day Rp.2.500 : 8211383 ( Ready DOR )
 ========================= Khusus Paket Ramadhan ===============================
+
+Kuota Ngabuburit FB&CHAT Ramadhan 7Day Rp.2.500 : 8211383 ( Ready DOR )
+
 Waze & Chat Ramadhan 7Day Rp.2.500 : 8211371 ( Ready DOR )
 
 Waze & Chat Ramadhan 3Day Rp.1000 : 8211370 ( Ready DOR )
@@ -32,8 +37,12 @@ Kuota IG & Chat Ngabuburit 1Day Rp.500 : 8211375 ( Ready DOR )
 Kuota IG & Chat Ngabuburit 3Day Rp.1000 : 8211376 ( Ready DOR )
 
 Kuota IG & Chat Ngabuburit 7Day Rp.2.500  : 8211377 ( Ready DOR )
+
 ============================ Khusus Paket BIZ  ================================
+
 Paket Biz Starter Rp.49.000 8211309 ( Ready DOR )
+
+========================= Khusus Paket Combo Lite ===============================
 
 Combo Lite :
 Pkt Xtra Combo Lite 3GB, 30hr, Rp19.900 : 8210882 ( Service ID dont not match )
@@ -42,15 +51,20 @@ Pkt Xtra Combo Lite 9GB, 30hr, Rp49.900 : 8210884 ( Service ID dont not match )
 Pkt Xtra Combo Lite 17GB, 30hr, Rp79.900 : 8210885 ( Service ID dont not match )
 Pkt Xtra Combo Lite 25GB, 30hr, Rp99.900 : 8210886 ( Service ID dont not match )
 
+========================= Khusus Paket XTRA COMBO & PRIMA  =========================
 
 XTRA COMBO & PRIMA :
 Pkt XTRA Combo 5GB+5GB, 30hr, Rp59rb  : 8211183 ( Ready DOR )
 Pkt XTRA Combo PRIMA 5GB+5GB, 30hr, Rp69rb : 8211188 ( Ready DOR )
 
+============================ Khusus Paket HotRod ===================================
+
 HotRod Speed Ferarri :
 Pkt HotRod 1.5GB,30hr,25rb : 8211107 ( Ready DOR )
 Pkt HotRod 3GB,30hr,30rb : 8211108 ( Ready DOR )
 Pkt HotRod 6GB,30hr,50rb : 8211109 ( Ready DOR )
+
+
 ===============================================================================================
 Created : Boychongzen aka X-root
 
