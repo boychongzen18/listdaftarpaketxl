@@ -16,6 +16,12 @@ Extra Kuota 30GB Rp11.900 : 8110671 ( Ready DOR )
 
 ========================= Khusus Paket Serba 10rb =============================
 
+8110787 ( Harus Aktifkan Paket Combo,Hotrod,Rejeki dll ) 
+8110788 ( Harus Aktifkan Paket Combo,Hotrod,Rejeki dll )
+8110789 ( Harus Aktifkan Paket Combo,Hotrod,Rejeki dll )
+8110790 ( Harus Aktifkan Paket Combo,Hotrod,Rejeki dll )
+8110800 ( Harus Aktifkan Paket Combo,Hotrod,Rejeki dll )
+
 Kuota Waze 10GB 30hr,Rp10.000 : 8110801 ( Ready DOR )
 
 ========================= Khusus Paket Ramadhan ===============================
@@ -86,7 +92,7 @@ Pkt HotRod 6GB,30hr,50rb : 8211109 ( Ready DOR )
 
 
 ===============================================================================================
-Created : Boychongzen aka X-root
+Creator : Boychongzen aka X-root
 
 https://www.hackingforlive.cf
 https://web.facebook.com/xroot.xroot.7
