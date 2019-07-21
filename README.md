@@ -1,6 +1,6 @@
-# List Daftar Paket XL Open & Close Dor
+# Cara Lihat Service ID XL Paket All - Open & Close Dor
 
-# Created Boychongzen aka Xroot
+# Creator @ Boychongzen aka Xroot
 
 # Screenshot Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/listdaftarpaketxl/master/xl.png)
