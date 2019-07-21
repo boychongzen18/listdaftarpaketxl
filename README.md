@@ -1,4 +1,4 @@
-# Cara Lihat Service ID XL Paket All - Open & Close Dor
+# Cara Lihat Service ID XL All Paket  - Open & Close Dor
 
 # Creator @ Boychongzen aka Xroot
 
