@@ -12,7 +12,9 @@
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/TZ6Ei7_XRSA
+Link Tutorial Laptop / PC : https://youtu.be/TZ6Ei7_XRSA
+ 
+Link Tutorial Android     : https://youtu.be/x8olZwqLqxM
 
 My Website : https://hackingforlive.wordpress.com
 
